@@ -51,7 +51,7 @@ Study its functionality and also inspect the Console, the Network tab and the El
 - The component exposed by `AppFunctional.js` must be a stateful functional component.
 - The one in `AppClass.js` must be a stateful class-based component.
 - The DOM produced by your components must match exactly the DOM in the prototype:
-  - The hierarchy of HTML elements, their ids, class names etc must be the same.
+  - The hierarchy of HTML elements, their ids, class  etnamesc must be the same.
   - The current square is marked with a capital B and an "active" class name.
   - The submit success and error messages that display on the page come from the API (see Network tab).
   - No frontend form validation code is required.
